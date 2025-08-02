@@ -1,4 +1,4 @@
-package com.akshu.streams;
+package com.am.streams;
 
 import java.util.ArrayList;
 import java.util.List;

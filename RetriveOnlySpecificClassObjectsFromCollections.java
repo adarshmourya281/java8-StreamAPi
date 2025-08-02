@@ -1,4 +1,4 @@
-package com.akshu.streams;
+package com.am.streams;
 
 import java.util.HashSet;
 import java.util.Set;
